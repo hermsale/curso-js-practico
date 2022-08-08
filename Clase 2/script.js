@@ -3,9 +3,6 @@ const inputCalculo2 = document.querySelector('#inputCalculo2');
 // const btn = document.querySelector('#btnCalcular');// lectura de CLASS
 const resultCalculo = document.querySelector('#result')
 
-
-
-
 function btnCalculo(){
    // volvemos Int los valores que recibimos
    // const resultado = parseInt(inputCalculo1.value) + parseInt(inputCalculo2.value);
